@@ -1,85 +1,148 @@
+# Nelli Varshith — Data Analyst Portfolio
 
-# Nelli Varshith - Portfolio Website
-
-This is a personal portfolio website designed and developed using **HTML**, **CSS**, and **JavaScript**. The site is fully responsive and includes smooth navigation, scroll animations, a contact form, and interactive project cards. It represents the work, skills, and personality of **Nelli Varshith**, a Full Stack Developer and UI/UX Designer.
-
----
-
-## 🌟 Website Overview
-
-### 🔹 Home Section
-- Fullscreen hero section with animated introduction.
-- Includes name, profession, and a "View My Work" call-to-action button.
-
-### 🔹 About Section
-- Displays developer’s image and short bio.
-- Highlights skill sets in three categories:
-  - **Frontend**: React, Vue, JavaScript, HTML5, CSS3
-  - **Backend**: Node.js, Python, PHP, MongoDB, MySQL
-  - **Tools**: Git, Docker, AWS, Figma, Photoshop
-
-### 🔹 Projects Section
-- Project grid with interactive cards including:
-  - **Career Guide Chatbot**: AI-integrated chatbot system.
-  - **Blood Bank Management System**: Emergency-ready web solution.
-  - **MITS Company Intro Page**: Interactive landing with data visuals.
-
-### 🔹 Contact Section
-- Contact form with fields: Name, Email, Subject, and Message.
-- JavaScript handles form submission simulation with visual feedback.
-
-### 🔹 Footer
-- Footer contains static contact info:
-  - Email: `nellivarshith123@gmail.com`
-  - Phone: `8501836908`
+A modern, responsive personal portfolio website showcasing my data analytics projects, technical skills, and internship experience.
 
 ---
 
-## 💡 Features
+## 🔗 Live Website
 
-- Responsive design with CSS media queries
-- Smooth scrolling for in-page navigation
-- Animated section reveals on scroll
-- Hamburger menu for mobile navigation
-- Custom gradient backgrounds and button transitions
-- JavaScript-based form feedback (no backend)
-- Navigation link highlighting based on scroll position
+👉 [View Portfolio](file:///C:/Users/user/Downloads/nellivarshith-portfolio.html)
 
 ---
 
-## 📁 File Structure
+## 📖 About
 
+This portfolio was built to professionally present my work as a Data Analyst.  
+It highlights real-world dashboard projects, technical expertise, and hands-on internship experience in data analytics.
 
----
-
-## 🧪 Technologies Used
-
-- HTML5
-- CSS3 (embedded)
-- JavaScript (Vanilla, embedded)
-
----
-
-
-## ✅ Functionality Scripts
-
-- **Navigation Smooth Scroll**
-- **Mobile Menu Toggle (Hamburger)**
-- **Scroll-triggered Animations**
-- **Contact Form Submission Simulation**
-- **Active Section Highlighting on Scroll**
+The design emphasizes:
+- Clean, minimal UI
+- Strong typography hierarchy
+- Recruiter-focused layout
+- Responsive experience across devices
 
 ---
 
-Demo :
-https://varshithdev.github.io/portfolio-Varshith/
+## ✨ Features
 
-## 📌 Author
-
-**Nelli Varshith**  
-*Full Stack Developer & UI/UX Designer*  
-> "Turning complex problems into simple, elegant solutions."
+- Fully responsive design (Mobile + Desktop)
+- Dark premium UI theme
+- Smooth scroll animations
+- Intersection Observer reveal effects
+- Project showcase section
+- Interactive contact form
+- Semantic HTML structure
+- Mobile navigation toggle
+- Active section highlighting on scroll
 
 ---
 
-© 2024 Nelli Varshith. All rights reserved.
+## 🛠 Tech Stack
+
+- Programming : Python  
+- CSS3 (Flexbox, Grid, CSS Variables)  
+- Vanilla JavaScript  
+- Intersection Observer API  
+
+No frameworks used — built entirely with core web technologies.
+
+---
+
+## 📊 Featured Projects
+
+### 1️⃣ AP College Analytics Dashboard
+- Built an interactive dashboard for Top 100 Engineering Colleges in Andhra Pradesh  
+- Designed filtering system for rankings and metrics  
+- Created informative visuals for students and educators  
+- Tools Used: Power BI, Data Analysis  
+
+### 2️⃣ Superstore Sales Dashboard
+- Analyzed 51,000+ sales records across 4 years  
+- Built KPI-driven executive dashboard (Revenue, Profit, Quantity, Margin %)  
+- Identified profit trends and performance insights  
+- Created region-wise and category-wise performance breakdown  
+- Tools Used: Power BI, Advanced Excel  
+
+---
+
+## 💼 Internship Experience
+
+Completed a 3-month Data Analytics Internship where I:
+
+- Cleaned and transformed real-world datasets  
+- Wrote SQL queries for structured analysis  
+- Built business dashboards using Power BI  
+- Extracted actionable insights for decision-making  
+- Applied statistical concepts for performance analysis  
+
+---
+
+## 📁 Project Structure
+
+```
+nellivarshith-portfolio/
+│
+├── index.html
+├── README.md
+└── assets/
+```
+
+---
+
+## 🚀 How to Run Locally
+
+1. Clone the repository  
+2. Open `index.html` in your browser  
+
+No additional setup required.
+
+---
+
+## ⚙ Customization
+
+You can easily customize:
+
+- Color theme inside `:root`
+- Add new project cards
+- Update skills and internship details
+- Integrate real email API for contact form
+- Deploy via GitHub Pages / Netlify / Vercel
+
+---
+
+## 🔮 Future Improvements
+
+- Integrate real backend email functionality  
+- Add detailed project case study pages  
+- Add analytics blog section  
+- Deploy with custom domain  
+- Add GitHub project integration  
+
+---
+
+## 🎯 Career Objective
+
+Aspiring Data Analyst with strong interest in:
+
+- Business Intelligence  
+- Data Visualization  
+- SQL Optimization  
+- Statistical Analysis  
+- Predictive Analytics  
+
+Currently expanding into Machine Learning for advanced data-driven modeling.
+
+---
+
+## 📬 Contact
+
+📧 Email: nellivarshith123@gmail.com  
+📱 Phone: +91 8501836908  
+📍 Location: Andhra Pradesh, India  
+
+GitHub: https://github.com/your-username  
+LinkedIn: https://linkedin.com/in/your-link  
+
+---
+
+© 2026 Nelli Varshith — Data Analyst Portfolio
