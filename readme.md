@@ -6,7 +6,7 @@ A modern, responsive personal portfolio website showcasing my data analytics pro
 
 ## 🔗 Live Website
 
-👉 [View Portfolio](file:///C:/Users/user/Downloads/nellivarshith-portfolio.html)
+👉 View Portfolio  <a href="file:///C:/Users/user/Downloads/nellivarshith-portfolio.html">Clich Here</a>
 
 ---
 
@@ -146,3 +146,4 @@ LinkedIn: https://linkedin.com/in/your-link
 ---
 
 © 2026 Nelli Varshith — Data Analyst Portfolio
+
