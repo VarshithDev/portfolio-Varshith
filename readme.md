@@ -6,7 +6,7 @@ A modern, responsive personal portfolio website showcasing my data analytics pro
 
 ## 🔗 Live Website
 
-👉 View Portfolio  <a href="https://chic-caramel-279b8c.netlify.app/">Clich Here</a>
+👉 View Portfolio  <a href="https://chic-caramel-279b8c.netlify.app/">Click Here</a>
 
 ---
 
@@ -140,11 +140,12 @@ Currently expanding into Machine Learning for advanced data-driven modeling.
 📱 Phone: +91 8501836908  
 📍 Location: Andhra Pradesh, India  
 
-GitHub: https://github.com/your-username  
-LinkedIn: https://linkedin.com/in/your-link  
+GitHub: <a href="https://github.com/VarshithDev"> click here </a>
+LinkedIn: <a href="https://www.linkedin.com/in/nelli-varshith"> click here </a>
 
 ---
 
 © 2026 Nelli Varshith — Data Analyst Portfolio
+
 
 
